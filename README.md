@@ -1,8 +1,8 @@
 # 🎨 RGB-LED-Arduino
 Projeto Arduino que controla as cores de um LED RGB usando três fotoresistores (LDRs), criando um sistema interativo onde a intensidade da luz ambiente determina as cores exibidas.
+
 🌐 Links do Projeto 🔗 https://www.tinkercad.com/things/3n8YN0YVdid-rgb-led
--
-Descrição do Projeto
+
 Este projeto utiliza três fotoresistores para capturar os níveis de luminosidade e traduzi-los em cores RGB em tempo real. Cada fotoresistor controla um canal de cor específico (Vermelho, Verde, Azul) do LED RGB, criando cores dinâmicas baseadas nas condições de iluminação do ambiente.
 ---
 
